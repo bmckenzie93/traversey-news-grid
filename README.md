@@ -12,11 +12,14 @@ I completed the nav bar and showcase, and started on the articles. So far I lear
 @ 6:47am [In]
 Good morning, I am about to dive back into this course. 
 
-@ 8:09 [In]
+@ 8:09am [In]
 I just finished the footer and next I am going to make the about and article pages. I was having some minor issues with some things that turned out to be a simicolon misplacement and class name typos. 
 
-@ 8:26 [In]
+@ 8:26am [In]
 Finished the about page, moving on to the article page. I am learning to use psudo-selectors more often with grid to style specific grid areas instead of giving special classes
 
-@ 8:46 [In]
+@ 8:46am [In]
 Finished the Artile page. Responsiveness next up.
+
+@ 9:20am [Fin]
+Project complete. I learned to use a seperate stylesheet for mobile that kicks in at tablet size, then add a media query to that page for phone sizes. I also learned to use psudo-selecors more often, and how to make utility classes better.
